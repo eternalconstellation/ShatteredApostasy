@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ShatteredApostasy/FileContentIndex
+/.vs/ShatteredApostasy/DesignTimeBuild
+/.vs/ShatteredApostasy/v17
+/obj
