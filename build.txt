@@ -1,0 +1,3 @@
+displayName = SHATTERED APOSTASY
+author = Asteria
+version = 0.1
