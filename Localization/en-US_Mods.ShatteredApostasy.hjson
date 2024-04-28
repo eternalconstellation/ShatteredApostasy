@@ -1,6 +1,1 @@
-NPCs: {
-	Asteria: {
-		DisplayName: Asteria
-		}
-	}
-}
+NPCs.Asteria.DisplayName: Asteria
