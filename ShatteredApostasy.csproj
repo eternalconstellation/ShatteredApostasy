@@ -8,14 +8,11 @@
     <LangVersion>latest</LangVersion>
   </PropertyGroup>
   <ItemGroup>
-    <None Remove="Content\NPCs\Asteria.png" />
-    <None Remove="Content\NPCs\Asteria_Head_Boss.png" />
-    <None Remove="Content\NPCs\DebugLine1.png" />
+    <None Remove="NPCs\Asteria.png" />
+    <None Remove="NPCs\Asteria_Head_Boss.png" />
+    <None Remove="NPCs\DebugLine1.png" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="tModLoader.CodeAssist" Version="0.1.*" />
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Common\" />
   </ItemGroup>
 </Project>

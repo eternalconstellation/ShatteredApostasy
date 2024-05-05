@@ -1,1 +1,10 @@
 NPCs.Asteria.DisplayName: Asteria
+
+Keybinds: {
+	DebugResetVelocity.DisplayName: Debug Reset Velocity
+	TagObjectAsMale.DisplayName: Tag Object As Male
+	TagObjectAsNeutral.DisplayName: Tag Object As Neutral
+	DebugGoUp.DisplayName: Debug Go Up
+	DebugGoDown.DisplayName: Debug Go Down
+	DebugStayStill.DisplayName: Debug Stay Still
+}
